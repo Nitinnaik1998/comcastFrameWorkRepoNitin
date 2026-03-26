@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-23T20:46:11 IST" name="Default suite" finished-at="2026-02-23T20:46:12 IST" duration-ms="76">
+    <groups>
+    </groups>
+    <test started-at="2026-02-23T20:46:11 IST" name="Default test" finished-at="2026-02-23T20:46:12 IST" duration-ms="76">
+      <class name="TestNg.Basic_Annotation">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:TestNg.Basic_Annotation@3b0090a4]" started-at="2026-02-23T20:46:11 IST" name="BeforeSuite" finished-at="2026-02-23T20:46:11 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:TestNg.Basic_Annotation@3b0090a4]" started-at="2026-02-23T20:46:11 IST" name="BeforeClass" finished-at="2026-02-23T20:46:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestNg.Basic_Annotation@3b0090a4]" started-at="2026-02-23T20:46:12 IST" name="BeforeMethod" finished-at="2026-02-23T20:46:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="ConfigTest1()[pri:0, instance:TestNg.Basic_Annotation@3b0090a4]" started-at="2026-02-23T20:46:12 IST" name="ConfigTest1" finished-at="2026-02-23T20:46:12 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigTest1 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestNg.Basic_Annotation@3b0090a4]" started-at="2026-02-23T20:46:12 IST" name="AfterMethod" finished-at="2026-02-23T20:46:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestNg.Basic_Annotation@3b0090a4]" started-at="2026-02-23T20:46:12 IST" name="BeforeMethod" finished-at="2026-02-23T20:46:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="ConfigTest2()[pri:0, instance:TestNg.Basic_Annotation@3b0090a4]" started-at="2026-02-23T20:46:12 IST" name="ConfigTest2" finished-at="2026-02-23T20:46:12 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigTest2 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestNg.Basic_Annotation@3b0090a4]" started-at="2026-02-23T20:46:12 IST" name="AfterMethod" finished-at="2026-02-23T20:46:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:TestNg.Basic_Annotation@3b0090a4]" started-at="2026-02-23T20:46:12 IST" name="AfterClass" finished-at="2026-02-23T20:46:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:TestNg.Basic_Annotation@3b0090a4]" started-at="2026-02-23T20:46:12 IST" name="AfterSuite" finished-at="2026-02-23T20:46:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- TestNg.Basic_Annotation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
