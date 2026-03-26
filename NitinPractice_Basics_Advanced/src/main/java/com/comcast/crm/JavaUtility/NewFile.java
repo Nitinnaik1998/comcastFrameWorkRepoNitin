@@ -10,5 +10,7 @@ public class NewFile {
 		PageFactory.initElements(driver,this);
 		
 	}
+	
+	
 
 }
